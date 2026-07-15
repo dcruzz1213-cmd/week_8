@@ -9,5 +9,5 @@ def main():
     print_receipt(name, food, quantity, price, delivery_charges)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     main()
